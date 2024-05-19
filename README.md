@@ -30,6 +30,6 @@ https://github.com/MorniingSad/site-portf-lio/assets/157181124/2f6a8f48-17d6-431
 
 
 #Tecnologias usadas
-HTML 
+HTML &
 CSS
 
